@@ -8,9 +8,8 @@ Data and code for the manuscript
 
 The analysis follows eight anthropogenic threats from the species they directly
 affect, through the food webs of 25 subregions of the Barents Sea, to the
-species that provide four ecosystem services (Carbon sequestration, Habitat
-provisioning, Food provisioning, Recreation and tourism). Extinction risk is
-propagated through each food web with a Bayesian network model, and every
+species that provide four ecosystem services. Extinction risk for each species is
+propagated through each food web with a Bayesian network model. Every
 analysis is run both with and without species interactions, so that the
 service loss caused directly by a threat can be separated from the loss that
 arises through the food web.
@@ -163,10 +162,12 @@ these data.
 > (2019) Food-web structure varies along environmental gradients in a
 > high-latitude marine ecosystem. *Ecography* 42: 295-308.
 
-Please cite these sources if you use the food web data. The assessments of
-threats and ecosystem service providers in
+Please cite these sources if you use the food web data. 
+
+The assessments of threats and ecosystem service providers in
 `threats_ecosystem_services_by_species.xlsx` were compiled for this study;
-the references for each assessment are given in the file.
+the references for each assessment are given in the file. If you use these
+data, please cite this study (see above).
 
 
 ## License
@@ -180,4 +181,4 @@ given there.
 ## Contact
 
 Anna Eklöf, Department of Physics, Chemistry and Biology (IFM), Linköping
-University, Sweden.
+University, Sweden. anna.eklof@liu.se
