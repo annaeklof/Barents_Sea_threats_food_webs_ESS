@@ -59,8 +59,8 @@ data/
                          sheet "Threats": which species each threat affects,
                            with the threat score (Magnitude = scope +
                            severity + 1), the number of the two factors that
-                           were unknown (Unknown_factors), certainty and
-                           references
+                           were unknown (Unknown_factors), certainty, notes on
+                           the assessment and references
                          sheet "Ecosystem Services": which species provide
                            each service, with references
   sub_networks_full/     Food webs of the 25 subregions, one file per
