@@ -1,0 +1,12 @@
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+~$*
+
+# Figures made by the scripts: only the manuscript figures are kept
+results/figures/*
+!results/figures/manuscript_b0/
+
+# Output of the quick test
+results/quick_test/
