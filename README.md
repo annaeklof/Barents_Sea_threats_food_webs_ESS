@@ -16,8 +16,9 @@ service loss caused directly by a threat can be separated from the loss that
 arises through the food web.
 
 An interactive visualization of the food web, the threats and the services is
-available at
-[annaeklof/visualization_barents_sea_foodweb](https://github.com/annaeklof/visualization_barents_sea_foodweb).
+available at https://annaeklof.github.io/visualization_barents_sea_foodweb/
+(code in
+[annaeklof/visualization_barents_sea_foodweb](https://github.com/annaeklof/visualization_barents_sea_foodweb)).
 
 
 ## Quick start
